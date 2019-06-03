@@ -11,3 +11,7 @@ meme type, mais presentant les modications
 attendues. A la différende de PixtoPix https://github.com/phillipi/pix2pix, les données ne sont pas appareillées ce qui impose une difficulté suplémentaire 
 
 Nous utilisons une implémentation cycle-gan tensorflow https://junyanz.github.io/CycleGAN/ ayant largement fait ses preuves. 
+Nous entrainons sur un large corpus de paysage dont les images proviennent notamment de Google et Pinterest. 
+
+Le travail effectué est disponible en pdf via google drive : https://drive.google.com/file/d/1_E72YwE5pH1vek36rddy0plSlT1CKW6r/view?usp=sharing
+Les modèles pré-entrainés sont disponibles sur demande. 
