@@ -15,3 +15,5 @@ Nous entrainons sur un large corpus de paysage dont les images proviennent notam
 
 Le travail effectué est disponible en pdf via google drive : https://drive.google.com/file/d/1_E72YwE5pH1vek36rddy0plSlT1CKW6r/view?usp=sharing
 Les modèles pré-entrainés sont disponibles sur demande. 
+
+![alt text]https://drive.google.com/open?id=1te6kdnP0lWpPp8tP2B7nvsXAsqINrZ1P
