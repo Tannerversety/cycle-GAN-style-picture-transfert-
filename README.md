@@ -1,2 +1,13 @@
 # cycle-GAN-style-picture-transfert-
-We are using a Tensorflow Cyclegan implementation to train some models to transform images characteristics
+
+nous nous proposons
+d'implementer une nouvelle architecture de
+reseaux de neurones basee sur des reseaux de
+neurones adversariaux cycliques "cycle GAN".
+L'objectif est de soumettre en entree des donnees
+presentant une caracteristique que l'on souhaite
+modier et d'obtenir en sortie, des donnees de
+meme type, mais presentant les modications
+attendues. A la différende de PixtoPix https://github.com/phillipi/pix2pix, les données ne sont pas appareillées ce qui impose une difficulté suplémentaire 
+
+Nous utilisons une implémentation cycle-gan tensorflow https://junyanz.github.io/CycleGAN/ ayant largement fait ses preuves. 
